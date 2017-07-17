@@ -1,0 +1,78 @@
+SERVICE CENTER LOCATIONS
+
+For every update made to a service center on the ALCOLOCK USA website, the change has to be reflected on Google My Business. Please see the last entry for instructions on doing this.
+
+Add new service center location
+
+Login to admin section (for USA, go to /compliance)
+Navigate using left hand menu to Extension -> Modules
+Edit the Store Location module
+Click "Store location Panel" Map icon on top right to display list of locations
+Click the blue "Add location" plus button on the top right
+Fill out the Genral tab
+Enter title in this format: ALCOLOCK - [City name]. e.g ALCOLOCK - Waterloo
+Enter description in this format: Seevers Auto Care - 302 Eugene Ave, North Platte, NE 69101. For USA locations, use USPS abbreviations e.g Street = st, avenue = ave. For other jurisdictions, ebter the full location
+Enter hours of operation as By appointment if no hours are provided.
+Fill out the alternate language tabs (if applicable)
+Click on the Data tab
+Add a shortcut url in SEO URL. use lower case characters and concantenate words usinga dash "-" so there are no spaces in between
+Set Features to enabled
+Set Status to enabled
+Click "The LatLong.net website can help you locate an exact latitude/longitude." link to find Lat & Long values
+On the Latlong.net website, paste the address to generate the lat/long coordinates
+Enter these on the Store Location module in their respective fields
+Add the Region/State/province
+Add the phone number (For Canada, use the phone number provided. For USA, add the phone number for the state e.g Illinois: 1 (888) 786-1197. The phone number for each state can be found by clicking "Find Locations" in the main nav menu and selecting the appropriate state from the list. The phone number at the top right of the website will change from state to state.
+Leave email field blank
+Click the save icon on the top right
+
+
+Edit existing service center location
+
+Login to admin section (for USA, go to /compliance)
+Navigate using left hand menu to Extension -> Modules
+Edit the Store Location module
+Click "Store location Panel" Map icon on top right to display list of locations
+Click the blue edit icon beside the location you wish to edit
+Edit the values required to change. Follow steps above for new addresses.
+Click the save icon on the top right
+
+Delete/close existing service center location
+
+Login to admin section (for USA, go to /compliance)
+Navigate using left hand menu to Extension -> Modules
+Edit the Store Location module
+Click "Store location Panel" Map icon on top right to display list of locations
+Click the blue edit icon beside the location you wish to delete/close
+Click on the data tabe
+Set Features option to disabled
+Set Status option to disabled
+Click the save icon on the top right
+
+
+Google My Business
+
+Add new location 
+
+Navigate to https://www.google.com/business/
+Sign In using the ALCOLOCK USA gmail account
+Click the blue plus icon on the bottom right
+Set business name to ALCOLOCK @ [Name of Company] e.g ALCOLOCK @ Cunico Tire Company
+Enter address and phone number and described above, depending on jurisdiction
+Set category to Auto Electrical Service
+Set website as link to location page. e.g for Maryland: http://alcolockusa.com/compliance/maryland
+Save location
+On the confrim location page, if you see the following message "The following business looks similar to the business that you added. Is this your business?". Click "This doesn't match"
+Check the authorization box
+Click continue
+Return to location listings by clicking on Google My Business logo
+Sort locations by store code in descending order (bottom pane).
+Find 2nd to last entry (e.g 45527)
+Add one to the value (e.g 45528)
+View the To-do pane (center pane)
+Click "Missing store codes"
+Click Add store code
+Enter the new value (e.g 45528) 
+Click Apply
+
+
