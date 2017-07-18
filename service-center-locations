@@ -4,7 +4,7 @@ For every update made to a service center on the ALCOLOCK USA website, the chang
 
 Add new service center location
 
-Login to admin section (for USA, go to /compliance)
+Login to admin section (for USA, go to /compliance/admin)
 Navigate using left hand menu to Extension -> Modules
 Edit the Store Location module
 Click "Store location Panel" Map icon on top right to display list of locations
