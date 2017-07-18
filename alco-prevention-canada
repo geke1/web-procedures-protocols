@@ -1,0 +1,24 @@
+Alco Prevention Canada
+
+Alco Prevention Canada has 2 website directories for French (/fr) and English (/en). There is also an index.html page for the homepage on the root of the server. Changes tot he homepage (alcoprevention.com) will have to be made on the index.html file to make it visible live.
+
+Change monthly special and webinar icon on homepage
+
+Add special to both language directopries. See product-information file on how to add specials.
+APC should provide images for the new monthly special and webinar
+To edit the English and French homepage images, login to admin sections (i.e /fr/admin/ & /en/admin/) navigate to Catalog > Information
+Edit the homepage slide that corresponds to the special. See Homepage > Change banner in Git for instructions
+Login to the root of site using FTP
+Navigate to English language directory folder
+Go to /home/alconet/apc/en/catalog/view/theme/shop/template/common/home.tpl
+Edit Monthly Special iamge and Webinar Image & link to special
+Go to /home/alconet/apc/en/catalog/view/theme/shop/template/common/header.tpl
+Edit Monthly Special menu link to new Special
+Navigate to French language directory folder
+Go to /home/alconet/apc/fr/catalog/view/theme/shop/template/common/home.tpl
+Edit Monthly Special iamge and Webinar Image & link to special
+Go to /home/alconet/apc/fr/catalog/view/theme/shop/template/common/header.tpl
+Edit Monthly Special menu link to new Special
+Go to /home/alconet/apc/index.html
+Edit Monthly Special iamge and Webinar Image & link to special
+Edit Monthly Special menu link to new Special
