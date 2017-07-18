@@ -9,10 +9,10 @@ Navigate using left hand menu to Extension -> Modules
 Edit the Store Location module
 Click "Store location Panel" Map icon on top right to display list of locations
 Click the blue "Add location" plus button on the top right
-Fill out the Genral tab
+Fill out the General tab
 Enter title in this format: ALCOLOCK - [City name]. e.g ALCOLOCK - Waterloo
 Enter description in this format: Seevers Auto Care - 302 Eugene Ave, North Platte, NE 69101. For USA locations, use USPS abbreviations e.g Street = st, avenue = ave. For other jurisdictions, ebter the full location
-Enter hours of operation as By appointment if no hours are provided.
+Enter hours of operation as "By appointment" if no hours are provided.
 Fill out the alternate language tabs (if applicable)
 Click on the Data tab
 Add a shortcut url in SEO URL. use lower case characters and concantenate words usinga dash "-" so there are no spaces in between
