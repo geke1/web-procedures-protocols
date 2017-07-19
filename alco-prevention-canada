@@ -22,3 +22,17 @@ Edit Monthly Special menu link to new Special
 Go to /home/alconet/apc/index.html
 Edit Monthly Special iamge and Webinar Image & link to special
 Edit Monthly Special menu link to new Special
+
+
+Add new information page
+
+Login to admin section
+Navigate using left hand menu to Catalog -> Information
+Click the blue "Add New" plus button on the top right
+Fill out fields, including alternate language tabs
+Click on the data tabe
+Enter an SEO keyword (no spaces, all lower case)
+Click the save icon on the top right
+Login to root using FTP
+Navigate to /home/alconet/apc/sitemap.xml
+Add new entries for information pages
